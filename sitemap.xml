@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://unifoss.something/unifoss-blog/posts/firstpost/</loc>
+    <loc>https://unifoss.something/blog/posts/firstpost/</loc>
     <lastmod>2018-05-01</lastmod>
   </url>
   
   <url>
-    <loc>https://unifoss.something/unifoss-blog/posts/secondpost/</loc>
+    <loc>https://unifoss.something/blog/posts/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
   
   <url>
-    <loc>https://unifoss.something/unifoss-blog/posts/thirdpost/</loc>
+    <loc>https://unifoss.something/blog/posts/thirdpost/</loc>
     <lastmod>2018-08-24</lastmod>
   </url>
   
   <url>
-    <loc>https://unifoss.something/unifoss-blog/posts/fourthpost/</loc>
+    <loc>https://unifoss.something/blog/posts/fourthpost/</loc>
     <lastmod>2018-09-30</lastmod>
   </url>
   
   <url>
-    <loc>https://unifoss.something/unifoss-blog/posts/1_whatisunifoss/</loc>
+    <loc>https://unifoss.something/blog/posts/1_whatisunifoss/</loc>
     <lastmod>2021-06-06</lastmod>
   </url>
   
   <url>
-    <loc>https://unifoss.something/unifoss-blog/about/</loc>
+    <loc>https://unifoss.something/blog/about/</loc>
     <lastmod>2021-06-06</lastmod>
   </url>
   
   <url>
-    <loc>https://unifoss.something/unifoss-blog/posts/</loc>
+    <loc>https://unifoss.something/blog/posts/</loc>
     <lastmod>2021-06-06</lastmod>
   </url>
   
   <url>
-    <loc>https://unifoss.something/unifoss-blog/</loc>
+    <loc>https://unifoss.something/blog/</loc>
     <lastmod>2021-06-06</lastmod>
   </url>
   
   <url>
-    <loc>https://unifoss.something/unifoss-blog/page-list/</loc>
+    <loc>https://unifoss.something/blog/page-list/</loc>
     <lastmod>2021-06-06</lastmod>
   </url>
   
   <url>
-    <loc>https://unifoss.something/unifoss-blog/tags/</loc>
+    <loc>https://unifoss.something/blog/tags/</loc>
     <lastmod>2021-06-06</lastmod>
   </url>
   
   <url>
-    <loc>https://unifoss.something/unifoss-blog/tags/first/</loc>
+    <loc>https://unifoss.something/blog/tags/first/</loc>
     <lastmod>2021-06-06</lastmod>
   </url>
   
   <url>
-    <loc>https://unifoss.something/unifoss-blog/tags/meta/</loc>
+    <loc>https://unifoss.something/blog/tags/meta/</loc>
     <lastmod>2021-06-06</lastmod>
   </url>
   
   <url>
-    <loc>https://unifoss.something/unifoss-blog/tags/another-tag/</loc>
+    <loc>https://unifoss.something/blog/tags/another-tag/</loc>
     <lastmod>2021-06-06</lastmod>
   </url>
   
   <url>
-    <loc>https://unifoss.something/unifoss-blog/tags/second-tag/</loc>
+    <loc>https://unifoss.something/blog/tags/second-tag/</loc>
     <lastmod>2021-06-06</lastmod>
   </url>
   
   <url>
-    <loc>https://unifoss.something/unifoss-blog/tags/number-2/</loc>
+    <loc>https://unifoss.something/blog/tags/number-2/</loc>
     <lastmod>2021-06-06</lastmod>
   </url>
 </urlset>
