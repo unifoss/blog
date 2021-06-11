@@ -1,38 +1,27 @@
-# eleventy-base-blog
+# UniFOSS Blog
+
+Made using [`eleventy-base-blog`](https://github.com/11ty/eleventy-base-blog)
+
+## README from `eleventy-base-blog`
+
+(this is copied from the README of `eleventy-base-blog` with irrelevant sections removed and links changed)
 
 A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
-
-[![Build Status](https://travis-ci.org/11ty/eleventy-base-blog.svg?branch=master)](https://travis-ci.org/11ty/eleventy-base-blog)
-
-## Demos
-
-* [Netlify](https://eleventy-base-blog.netlify.com/)
-* [GitHub Pages](https://11ty.github.io/eleventy-base-blog/)
-* [Remix on Glitch](https://glitch.com/~11ty-eleventy-base-blog)
-
-## Deploy this to your own site
-
-These builders are amazing—try them out to get your own Eleventy site in a few clicks!
-
-* [Get your own Eleventy web site on Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/11ty/eleventy-base-blog)
-* [Get your own Eleventy web site on Vercel](https://vercel.com/import/project?template=11ty%2Feleventy-base-blog)
 
 ## Getting Started
 
 ### 1. Clone this Repository
 
 ```
-git clone https://github.com/11ty/eleventy-base-blog.git my-blog-name
+git clone https://github.com/unifoss/blog.git unifoss-blog
 ```
 
 
 ### 2. Navigate to the directory
 
 ```
-cd my-blog-name
+cd unifoss-blog
 ```
-
-Specifically have a look at `.eleventy.js` to see if you want to configure any Eleventy options differently.
 
 ### 3. Install dependencies
 
@@ -40,9 +29,7 @@ Specifically have a look at `.eleventy.js` to see if you want to configure any E
 npm install
 ```
 
-### 4. Edit _data/metadata.json
-
-### 5. Run Eleventy
+### 4. Run Eleventy
 
 ```
 npx eleventy
